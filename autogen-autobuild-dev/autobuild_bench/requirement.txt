@@ -1,2 +1,2 @@
--e file:///Users/elpis/llm/autogen-autobuild-dev
+-e file: F:\bbb\autogen-autobuild-dev
 huggingface_hub
